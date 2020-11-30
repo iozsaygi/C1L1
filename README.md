@@ -1,5 +1,3 @@
-[!Gameplay video](https://www.youtube.com/watch?v=Bt18ZcdWGIA&list=PLE8IcrTzUZ_tUjeFKWZUWaUgxLGJ8KzaJ&index=2&ab_channel=IsmailOzsaygi)
-
 ## About
 C1L1 is a remake of the first level in Castlevania 1 (1986). </br>
 Made in 1 week using Unity Engine. </br>
