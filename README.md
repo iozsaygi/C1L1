@@ -5,6 +5,13 @@ Some of the major features like items and secrets are currently missing.
 
 I do not own any of the graphical or audio asset in this project. All the rights for those assets belongs to Konami.
 
+## Controls
+* A/D: Movement
+* S: Crouch
+* Space: Jump
+* LMB: Attack
+* ESC: Pause/Unpause
+
 ## References
 * [Gameplay video](https://www.youtube.com/watch?v=Bt18ZcdWGIA&ab_channel=IsmailOzsaygi)
 * [The Spriters Resource](https://www.spriters-resource.com/nes/cv/)
